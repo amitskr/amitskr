@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitskr&show_icons=true&locale=en" alt="amitskr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitskr&" alt="amitskr" /></p>
+
+![codechef](https://user-images.githubusercontent.com/72401473/153932028-e1aa09b3-f1d7-4d9c-a945-78b162faa220.png)
+
