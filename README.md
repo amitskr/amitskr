@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitskr](https://github.com/amitskr)
 
-- 📝 I regularly write articles on [techaboom360.blogspot.com](techaboom360.blogspot.com)
+- 📝 I regularly write articles on [techaboom360.blogspot.com](https://techaboom360.blogspot.com)
 
 - 📫 How to reach me **https://t.me/amit15334**
 
-- 📄 Know about my experiences [amitsarkar.netlify.app](amitsarkar.netlify.app)
+- 📄 Know about my experiences [amitsarkar.netlify.app](https://amitsarkar.netlify.app)
 
 - ⚡ Fun fact **I use arch btw.**
 
