@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [techaboom360.blogspot.com](https://techaboom360.blogspot.com)
 
-- 📫 How to reach me **https://t.me/amit15334**
+- 📫 How to reach me **https://t.me/amitskr**
 
 - 📄 Know about my experiences [amitsarkar.netlify.app](https://amitsarkar.netlify.app)
 
